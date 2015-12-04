@@ -1,0 +1,10 @@
+{
+  "simulation": "mytest.AddNewComputerLoadTest",
+  "simulationId": "addnewcomputerloadtest",
+  "start": 1449231501484,
+  "description": "",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}

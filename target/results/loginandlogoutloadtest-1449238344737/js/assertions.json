@@ -1,0 +1,10 @@
+{
+  "simulation": "mytest.LoginAndLogoutLoadTest",
+  "simulationId": "loginandlogoutloadtest",
+  "start": 1449238344737,
+  "description": "",
+  "scenarios": ["Login and Logout"],
+  "assertions": [
+
+  ]
+}
